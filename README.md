@@ -7,26 +7,26 @@ This is the learning templates for the CS50 course of python by Dr. David J. Mal
 ## Requirements
 
 - Python 3~
-- pip
-  certifi 2023.5.7
-  charset-normalizer 3.1.0
-  colorama 0.4.6
-  cowsay 5.0
-  exceptiongroup 1.1.1
-  idna 3.4
-  iniconfig 2.0.0
-  mypy 1.3.0
-  mypy-extensions 1.0.0
-  packaging 23.1
-  Pillow 9.5.0
-  pip 23.1.2
-  pluggy 1.0.0
-  pytest 7.3.1
-  requests 2.30.0
-  setuptools 65.5.0
-  tomli 2.0.1
-  typing_extensions 4.6.0
-  urllib3 2.0.2
+- pip list
+  - certifi 2023.5.7
+  - charset-normalizer 3.1.0
+  - colorama 0.4.6
+  - cowsay 5.0
+  - exceptiongroup 1.1.1
+  - idna 3.4
+  - iniconfig 2.0.0
+  - mypy 1.3.0
+  - mypy-extensions 1.0.0
+  - packaging 23.1
+  - Pillow 9.5.0
+  - pip 23.1.2
+  - pluggy 1.0.0
+  - pytest 7.3.1
+  - requests 2.30.0
+  - setuptools 65.5.0
+  - tomli 2.0.1
+  - typing_extensions 4.6.0
+  - urllib3 2.0.2
 
 ## Installation
 
