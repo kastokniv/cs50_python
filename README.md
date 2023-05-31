@@ -4,9 +4,9 @@
 
 This is the learning templates for the CS50 course of python by Dr. David J. Malan from Harvard University.
 
-[Python CS50 Course Youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
-[Python CS50 Official site](https://cs50.harvard.edu/python/2022/)
-[Discord](https://discord.com/invite/cs50)
+- [Python CS50 Course Youtube](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
+- [Python CS50 Official site](https://cs50.harvard.edu/python/2022/)
+- [Discord](https://discord.com/invite/cs50)
 
 ## Requirements
 
@@ -35,8 +35,8 @@ This is the learning templates for the CS50 course of python by Dr. David J. Mal
 
 ## Installation
 
-[Python Documentation](https://docs.python.org/3.10/)
-[Python Setup Guide](https://www.python.org/downloads/)
+- [Python Documentation](https://docs.python.org/3.10/)
+- [Python Setup Guide](https://www.python.org/downloads/)
 
 ## Usage
 
